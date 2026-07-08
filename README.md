@@ -199,8 +199,7 @@ https://github.com/bhargavasaiii17-svg
 
 ### LinkedIn
 
-*(Add Your LinkedIn Profile Here)*
-
+(https://www.linkedin.com/in/bhargava-sai-3a2b43349)
 ### Portfolio
 
 https://thiranex-portfolio-2-ma6z.onrender.com
@@ -209,7 +208,7 @@ https://thiranex-portfolio-2-ma6z.onrender.com
 
 # 🙏 Acknowledgements
 
-This project was developed during my internship at **:contentReference[oaicite:0]{index=0}**, where I had the opportunity to enhance my web development skills by building a professional portfolio website using Flask and modern web technologies. :contentReference[oaicite:1]{index=1}
+This project was developed during my internship, where I had the opportunity to enhance my web development skills by building a professional portfolio website using Flask and modern web technologies.
 
 ---
 
