@@ -95,31 +95,31 @@ Thiranex_Portfolio/
 
 ## 🏠 Home Page
 
-> !(home.png)
+![Home Page](home.png)
 
 ---
 
 ## 💻 Skills Section
 
-> ![skill.png]
+![Skills](skill.png)
 
 ---
 
 ## 🚀 Projects Section
 
-> ![project.png]
+![projects](project.png)
 
 ---
 
 ## 📜 Certificates Section
 
-> ![certi.png]
+![Certificates](certi.png)
 
 ---
 
 ## 📬 Contact Section
 
-> ![contact.png]
+![Contact](contact.png)
 
 ---
 
