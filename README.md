@@ -95,7 +95,7 @@ Thiranex_Portfolio/
 
 ## 🏠 Home Page
 
-> ![home.png]
+> !(home.png)
 
 ---
 
