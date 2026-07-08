@@ -79,22 +79,16 @@
 
             <div class="hero-buttons">
 
-                <a href="resume.pdf" class="btn" download>
+    <a href="{{ url_for('static', filename='resume.pdf') }}" class="btn" download>
+        <i class="fa-solid fa-download"></i>
+        Download Resume
+    </a>
 
-                    <i class="fa-solid fa-download"></i>
+    <a href="#projects" class="btn btn2">
+        View Projects
+    </a>
 
-                    Download Resume
-
-                </a>
-
-                <a href="#projects" class="btn btn2">
-
-                    View Projects
-
-                </a>
-
-            </div>
-
+</div>
         </div>
 
     </section>
